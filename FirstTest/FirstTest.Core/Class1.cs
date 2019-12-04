@@ -11,6 +11,7 @@ namespace FirstTest.Core
         public void Test()
         {
             Console.WriteLine("Test App");
+            Console.ReadLine();
         }
     }
 }
